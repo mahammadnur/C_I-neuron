@@ -1,0 +1,19 @@
+1. The primitive data types in C language include integer (int), character (char), floating-point (float), double precision (double), and void. [1][2][3]
+
+2. Variable declarations and function prototypes can be written outside the function body in C language. [2]
+
+3. The size of a float type variable in C language is typically 4 bytes. [2]
+
+4. The value of an uninitialized variable in C language is unpredictable. It can contain any value present in the memory at that time. [2]
+
+5. The main difference between float and double in C language is the precision. Double has double the precision of float, providing more significant digits after the decimal point. [2]
+
+6. ASCII stands for American Standard Code for Information Interchange. [2]
+
+7. Keywords in C language are reserved words that have a specific meaning and purpose in the language. Functions, on the other hand, are blocks of code that perform a specific task. Keywords have predefined meanings, while functions are user-defined or built-in routines. [2]
+
+8. Type modifiers in C language are used to modify the behavior of the base data types. They include signed, unsigned, short, long, and their combinations. They allow for specifying the range and memory allocation of variables. [3]
+
+9. No, you cannot assign a character constant directly to an int variable in C language. You need to use appropriate typecasting or conversion to assign a character constant to an int variable. [2]
+
+10. False. Every block of code is not a function in C language. A function is a named block of code that performs a specific task and can be called from other parts of the program. Blocks of code can exist outside of functions, such as global variable declarations and function prototypes. [2]
