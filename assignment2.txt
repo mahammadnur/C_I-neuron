@@ -1,0 +1,19 @@
+1. The real constants among the given options are 4.5, 3.0, and -0.0. [1]
+
+2. The keywords in the C language among the given options are auto, static, typedef, define, enum, and default. The keywords that are not part of the C language are dynamic, is, and this. [3]
+
+3. The variable name '4.5' is not a valid variable name in the C language because it starts with a number. Variable names in C must start with a letter or an underscore. [3]
+
+4. No, we cannot make a variable with the name 'switch' in C. 'switch' is a reserved keyword in the C language and cannot be used as an identifier for variables or other purposes. [3]
+
+5. Keywords in the C language are defined in the compiler itself. The compiler recognizes and interprets these keywords based on their predefined meanings. [3]
+
+6. Variables in the C language are created in RAM (Random Access Memory). RAM is a type of primary memory used by the computer to store data during program execution. [3]
+
+7. The C language was developed by Dennis Ritchie. [3]
+
+8. The C language was developed in the early 1970s. The specific year often referred to is 1972 when the initial version of the C language was created. [3]
+
+9. The C language was initially developed on the Unix operating system. Unix played a significant role in the inception and development of the C language. [3]
+
+10. C language is considered a high-level programming language. It provides a good balance between low-level and high-level programming capabilities, making it suitable for system-level programming and application development. [3]
